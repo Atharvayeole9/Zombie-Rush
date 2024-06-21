@@ -1,0 +1,12 @@
+body{
+    /* understand the reason */
+    font-family: 'Courier New', Courier, monospace;
+    text-align : center; 
+    background : linear-gradient(to bottom right, black, rgb(10,1,18)) ; 
+}
+
+#board{
+    background-image: url("./assets/task\ 2\ wallpaper.jpg");
+    background-size: cover;
+    /* overflow: hidden; */
+}
